@@ -139,7 +139,7 @@ When prompted, use these recommended responses:
 | CPU scaling governor? | **yes** | Maximizes CPU performance |
 | Enable fstrim service? | **yes** | Maintains SSD performance |
 | Scylla only service? | **yes** | Dedicates resources to ScyllaDB |
-| Configure remote logging? | **yes** (for basic setup) | Can be configured later |
+| Configure remote logging? | **no** (for basic setup) | Can be configured later |
 | Tune LimitNOFILES? | **yes** | Handles large number of connections |
 
 ## Step 5: Start ScyllaDB Services
